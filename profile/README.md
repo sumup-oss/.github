@@ -14,6 +14,7 @@
 ## Mobile SDKs
 
 - [Android](https://github.com/sumup/sumup-android-sdk)
+- [Android Tap To Pay](https://github.com/sumup/sumup-android-tap-to-pay)
 - [iOS](https://github.com/sumup/sumup-ios-sdk)
 
 ## Developer tools
